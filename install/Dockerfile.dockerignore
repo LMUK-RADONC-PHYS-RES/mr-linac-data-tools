@@ -1,0 +1,4 @@
+*
+!install/requirements.txt
+!decode_message_dump.py
+!cine_to_video.py

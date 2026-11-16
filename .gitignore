@@ -1,0 +1,16 @@
+# patient data: never commit
+*.dump
+*.dump.full.log
+*.ogv
+output_conversion/
+data*/
+*.mha
+*.npz
+*.npy
+text_messages.jsonl
+# build / python
+__pycache__/
+*.pyc
+build/
+*.spec
+venv/
